@@ -4,7 +4,12 @@
     "repositoryName": "doug-martin.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {
+    "twitter": "dougamartin",
+    "github": "doug-martin"
+  },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
