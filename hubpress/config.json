@@ -4,12 +4,15 @@
     "repositoryName": "doug-martin.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Blog",
+    "cover": ""
+  },
   "socialnetwork": {
     "twitter": "dougamartin",
     "github": "doug-martin"
   },
   "theme": {
-    "name": "casper"
+    "name": "ghostium"
   }
 }
